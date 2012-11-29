@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="wellableDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="wellableDbModelStoreContainer">
+    <EntitySet Name="Applications" EntityType="wellableDbModel.Store.Applications" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="wellableDbModel.Store.Users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Applications">
+    <Key>
+      <PropertyRef Name="ApplicationId" />
+    </Key>
+    <Property Name="ApplicationId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AppName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="varchar" MaxLength="25" />
+    <Property Name="LastName" Type="varchar" MaxLength="25" />
+    <Property Name="Address1" Type="varchar" MaxLength="50" />
+    <Property Name="Address2" Type="varchar" MaxLength="50" />
+    <Property Name="City" Type="varchar" MaxLength="25" />
+    <Property Name="State" Type="varchar" MaxLength="2" />
+    <Property Name="PostalCode" Type="varchar" MaxLength="14" />
+    <Property Name="PhoneNumber" Type="varchar" MaxLength="25" />
+    <Property Name="UserName" Type="varchar" Nullable="false" MaxLength="25" />
+    <Property Name="Password" Type="varchar" Nullable="false" MaxLength="25" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

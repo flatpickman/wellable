@@ -1,0 +1,17 @@
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\WellableData.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\WellableData.pdb
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\EntityFramework.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.Edm.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.OData.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.Services.Client.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.Services.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\System.Spatial.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\EntityFramework.xml
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.Edm.xml
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.OData.xml
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.Services.xml
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\Microsoft.Data.Services.Client.xml
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\bin\System.Spatial.xml
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\obj\Debug\WellableData.csprojResolveAssemblyReference.cache
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\obj\Debug\WellableData.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableApi\WellableData\obj\Debug\WellableData.pdb

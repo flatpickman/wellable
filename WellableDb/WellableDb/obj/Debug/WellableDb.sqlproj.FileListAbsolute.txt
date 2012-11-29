@@ -1,0 +1,3 @@
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableDb\WellableDb\bin\Debug\WellableDb.dacpac
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableDb\WellableDb\obj\Debug\WellableDb.dll
+C:\Users\spurgin\Documents\Visual Studio 2012\Projects\Wellable\WellableDb\WellableDb\obj\Debug\WellableDb.pdb
